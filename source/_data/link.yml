@@ -1,0 +1,43 @@
+# - class_name: 框架
+#   flink_style: flexcard || anzhiyu || telescopic
+#   hundredSuffix: ""
+#   link_list:
+#     - name: Hexo
+#       link: https://hexo.io/zh-tw/
+#       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+#       descr: 快速、简单且强大的网站框架
+#     - name: anzhiyu主题
+#       link: https://blog.anheyu.com/
+#       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+#       descr: 生活明朗，万物可爱
+#       siteshot: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/anzhiy.cn.jpg
+
+- class_name: 推荐博客
+  flink_style: flexcard
+  link_list:
+    - name: 我的主站
+      hundredSuffix: ""
+      link: https://icu007.work/
+      avatar: https://icu007.work/wp-content/uploads/2022/03/head-1.jpeg
+      descr: 尊重所有声音 但成为自己
+      siteshot: https://pic.ziyuan.wang/2023/08/16/a07276b3232ac.png
+
+- class_name: 个人站点
+  class_desc: 以下站点内容一致，随便看看就好啦！
+  flink_style: anzhiyu
+  link_list:
+    - name: 主站
+      hundredSuffix: ""
+      link: https://icu007.work
+      avatar: https://icu007.work/wp-content/uploads/2022/03/head-1.jpeg
+      descr: 与君共赴 万里征程
+    - name: 副站
+      hundredSuffix: ""
+      link: https://icu007work.gitee.io
+      avatar: https://icu007.work/wp-content/uploads/2022/03/head-1.jpeg
+      descr: 与君共赴 万里征程
+    - name: 副站
+      hundredSuffix: ""
+      link: https://hiheya.github.io/
+      avatar: https://icu007.work/wp-content/uploads/2022/03/head-1.jpeg
+      descr: 与君共赴 万里征程

@@ -1,0 +1,94 @@
+- class_name: 关于页
+  subtitle: 与君共赴 万里征程✨
+  avatarImg: https://icu007.work/wp-content/uploads/2022/03/head-1.jpeg
+  name: Rookie_l
+  description: 是一名 安卓工程师、独立开发者、博主、打工仔
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hey dude, what's up?
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    item:
+      - EDU,物联网工程专业
+    img: /img/about/edu.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在蜗居在
+    StrengthenTitle: 中国，深圳市
+    background: /img/about/map-light.png
+    backgroundDark: /img/about/map-night.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2000
+    selfInfoTips2: 星座
+    selfInfoContent2: 水瓶座
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 苦逼打工仔
+  personalities:
+    author_name: 守卫者
+    personality_type: ISFJ-T
+    photo_url: http://api.muvip.cn/api/bing?size=400x240 #/img/default_cover.jpg
+    personality_img: /img/about/ISFJ.png
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 尊重所有声音
+    maxim_bottom: 但成为自己
+  buff:
+    buff_tips: 爱好
+    buff_top: 打打篮球 看看电影
+    buff_bottom: 独处是一个人的清欢
+  game:
+    game_tips: 爱好游戏
+    game_title: "Assassin's Creed: Odyssey"
+    game_uid: 流水的刺客铁打的鹰
+    game_bg: /img/about/hypixel.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 夏目友人帐
+        href: https://www.bilibili.com/bangumi/media/md1660
+        cover: https://pic.ziyuan.wang/2023/08/16/7a91524f0ed07.png
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://pic.ziyuan.wang/2023/08/16/8d9ced6889c37.png
+      - name: 间谍过家家
+        href: https://www.bilibili.com/bangumi/media/md28237119
+        cover: https://pic.ziyuan.wang/2023/08/16/4512cf9e27ac3.png
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://pic.ziyuan.wang/2023/08/16/073fa19317ca7.png
+      - name: 干物妹小埋
+        href: https://www.bilibili.com/bangumi/media/md2580
+        cover: https://pic.ziyuan.wang/2023/08/16/62c322ac33151.png
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: /img/about/it.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 乡村音乐、民谣、说唱
+    music_bg: /img/about/music.jpg
+    music_link: /music
+  reward_list:
+    - name: 榜一大哥 虚位以待
+      amount: 999999
+      datatime: 2023-08-16
+
+  extra: false
