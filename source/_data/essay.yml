@@ -1,0 +1,32 @@
+- title: 即刻短文
+  subTitle: 咸鱼的日常生活。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: linear-gradient(to top,#cd9cf2 0%,#f6f3ff 100%); #/img/info-bg.webp
+  essay_list:
+    - content: 使用安知鱼主题重置博客
+      date: 2023-08-16
+      image: 
+        - https://pic.ziyuan.wang/2023/08/16/3d7d86560b111.png
+      link: https://docs.anheyu.com/
+    - content: 新增 bbtalk!!!
+      date: 2023-08-10
+    - content: 更新评论系统,现在支持自动获取QQ头像辣.
+      date: 2023-08-09
+    - content: 更新footer,优化分割线显示效果,添加打赏彩蛋,尝试修复欢迎弹窗,标题添加了风车动画.
+      date: 2023-08-08
+    - content: 今天添加Sakura主题,收拢了标签和分类,还更新了Aplayer,博客还是报看.
+      date: 2023-08-07
+    - content: 适配了一下TOC栏模糊效果,和大佬们的比起来还是有差距的.
+      date: 2023-08-04
+    - content: 使用Butterfly主题重构博客,新增搜索功能.
+      date: 2023-08-02
+    - content: 给博客加上了404页面还有访客统计.
+      date: 2022-08-27
+    - content: 首次使用Sakura主题,感觉有点卡
+      date: 2022-08-25
+    - content: 博客搭建完成啦!!!
+      date: 2022-08-24

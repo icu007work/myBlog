@@ -1,0 +1,59 @@
+- class_name: 旅行日记
+  path_name: /wordScenery
+  type: 1
+  description: travel!!!
+  cover: https://pic.ziyuan.wang/2023/08/22/3fc12a4e1f82e.jpg
+  top_background: https://pic.ziyuan.wang/2023/08/22/22931165f1aac.jpg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  album_list:
+    - date: 2023/08/12 01:00:00
+      content: 香港街头
+      address: 中国·香港
+      from: Rookie_l
+      image:
+        - https://pic.ziyuan.wang/2023/08/22/3fc12a4e1f82e.jpg
+        - https://pic.ziyuan.wang/2023/08/22/22931165f1aac.jpg
+        - https://pic.ziyuan.wang/2023/08/22/f89a3ca2cee00.jpg
+        - https://pic.ziyuan.wang/2023/08/22/c1839793abc7b.jpg
+        - https://pic.ziyuan.wang/2023/08/22/128b83f295f7c.jpg
+        - https://pic.ziyuan.wang/2023/08/22/d0c355aad6593.jpg
+    - date: 2023-08-12
+      content: 香港夜景
+      address: 中国·香港
+      from: Rookie_l
+      image:
+        - https://pic.ziyuan.wang/2023/08/22/27aa0c4240fb7.jpg
+        - https://pic.ziyuan.wang/2023/08/22/17bbbc8fa861b.jpg
+        - https://pic.ziyuan.wang/2023/08/22/de520dee2ee1b.jpg
+        - https://pic.ziyuan.wang/2023/08/22/ac8ad7ce6617e.jpg
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 用照片记录美好瞬间！
+  cover: https://pic.ziyuan.wang/2023/08/22/1f8a1d37587ac.jpg
+  top_background: https://pic.ziyuan.wang/2023/08/22/2e1c988f13b45.jpg
+  album_list:
+    - date: 2023-07-26
+      content: 深圳的天空永远不会让我失望
+      address: 中国·深圳
+      image:
+        - https://pic.ziyuan.wang/2023/08/22/30599357b3f15.jpg
+        - https://pic.ziyuan.wang/2023/08/22/1f8a1d37587ac.jpg
+        - https://pic.ziyuan.wang/2023/08/22/2e1c988f13b45.jpg
+        - https://pic.ziyuan.wang/2023/08/22/cc03a0fe62488.jpg
+    - date: 2023-07-15
+      content: 拜托你轻声重着我的名字
+      address: 中国·深圳
+      image:
+        - https://pic.ziyuan.wang/2023/08/22/316979302d876.jpg
+        - https://pic.ziyuan.wang/2023/08/22/1bfec2a2dd16c.jpg
+        - https://pic.ziyuan.wang/2023/08/22/2ed71fc4ba11f.jpg
+        - https://pic.ziyuan.wang/2023/08/22/3dab96fb9e5e3.jpg
+        - https://pic.ziyuan.wang/2023/08/22/b84e673a3bd39.jpg
+        - https://pic.ziyuan.wang/2023/08/22/cd2af2675540b.jpg
+        - https://pic.ziyuan.wang/2023/08/22/d71d42caec260.jpg
