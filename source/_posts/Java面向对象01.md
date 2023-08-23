@@ -7,6 +7,7 @@ categories: 技术
 comments: true
 photos: 'https://tva3.sinaimg.cn/large/87c01ec7gy1fsnqqm6x00j21kw0w0h09.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/f9a43fa4f09af.jpg
+ai: 本文给我们介绍了面向过程和面向对象的区别，还向我们介绍了类与对象的关系。
 tags:
   - Java
   - Java面向对象

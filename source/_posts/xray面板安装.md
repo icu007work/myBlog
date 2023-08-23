@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqrzat4j21kw0w0wtr.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/ea0c43a2f8ddc.jpg
+ai: 
+  - 本文介绍了Xray面板的安装步骤
 tags: 随笔
 abbrlink: '25e76629'
 date: 2022-08-26 11:37:14
@@ -16,7 +18,7 @@ keywords:
 description:
 ---
 
-[TOC]
+
 
 ## 一、升级yum，安装curl依赖包
 

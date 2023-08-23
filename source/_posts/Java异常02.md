@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqqyk36yj21kw0w0k97.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/0d7c154d6b634.jpg
+ai: 
+  - 本文介绍了异常处理的相关内容。首先，通过使用try-catch关键字可以在程序出现异常时实现程序不终止，并在catch中处理异常。其次，throw和throws关键字用于主动抛出异常，throw关键字用于方法体内部抛出异常，throws关键字用于方法名中声明将要抛出的异常。最后，文章提到了自定义异常的方法，包括创建自定义异常类、使用throw关键字抛出异常对象以及使用try-catch或throws在调用者处捕获和处理异常。总结经验时强调合理规避运行时异常，逻辑处理并辅助try-catch，尽量处理异常而不是简单打印输出，根据业务需求和异常类型决定具体处理方式，并添加finally语句块释放资源。
 tags:
   - Java
   - Java异常

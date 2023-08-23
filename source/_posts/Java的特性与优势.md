@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqpyov8j21kw0w0h0t.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/a16739c3b0834.jpg
+ai: 
+  - 本文主要介绍了Java的特性和优势：Java具有许多特性和优势，并且涵盖了简单性、面向对象、可移植性、高性能等方面。它有三个主要版本，即JavaSE、JavaME和JavaEE。此外，JDK、JRE和JVM是与Java开发相关的重要概念。安装Java开发环境包括卸载、安装和配置JDK的过程。
 tags:
   - Java
   - Java特性

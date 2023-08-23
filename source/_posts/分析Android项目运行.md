@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva1.sinaimg.cn/large/87c01ec7gy1fsnqqsspxqj21kw0w0to4.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/4770439e8367f.jpg
+ai: 
+    - 这篇文章主要分析了Android项目如何运行，以及关键代码和文件的作用。首先介绍了AndroidManifest.xml文件，其中注册活动是必须的，特别是使用<intent-filter>标签来指定主活动。接下来讲解了MainActivity，它是应用程序的门面，负责展示界面。在onCreate()方法中，通过调用setContentView()方法引入了布局文件activity_main.xml，此处定义了HelloWorld文字的显示。最后展示了activity_main.xml文件的内容，其中包含一个TextView控件用于显示文字"Hello World!"。总的来说，Android项目的运行涉及到活动的注册、活动类的编写和布局文件的引入与编辑。通过这些组成部分的协调工作，才能实现Android应用的正常运行。
 abbrlink: 7d2e59d3
 date: 2022-08-26 11:41:59
 authorAbout:

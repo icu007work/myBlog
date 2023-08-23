@@ -7,6 +7,8 @@ categories: 生活
 comments: true
 photos: 'https://tva1.sinaimg.cn/large/87c01ec7gy1fsnqq4k0okj21kw0w0dra.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/d2b6cf5f2f950.jpg
+ai: 
+   - 本文主要记录了博主office无法联网时的处理过程，并附上了解决方法。
 tags: 随笔
 abbrlink: eacc0609
 date: 2022-08-25 22:43:38

@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva1.sinaimg.cn/large/87c01ec7gy1fsnqqxw2orj21kw0w01a9.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/65dc3e87aafec.jpg
+ai: 
+  - 这篇文章描述了将应用程序上传到项目目录的步骤，以更新SQ47的ScannerTool应用为例。首先进入目标目录，如果已存在该目录，则直接进入；否则新建目录。然后使用Xftp或其他FTP文件传输工具上传应用程序，也可以通过磁盘映射直接拷贝到目录中。接下来修改配置文件，在相应目录下找到名为PREBUILT_SQ47_CN_XX_XX.csv的文件，并找到ScannerTool应用的包名所在行，更新版本号即可。注意，对于其他软件的更新或预装步骤也类似。
 tags:
   - 随笔
 password: urovo
@@ -18,8 +20,6 @@ authorDesc:
 keywords:
 description:
 ---
-
-[TOC]
 
 ## 一、将app上传到项目目录
 

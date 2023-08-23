@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva3.sinaimg.cn/large/87c01ec7gy1fsnqqmdhn9j21kw0w07iu.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/793798198c74d.jpg
+ai: 
+  - 本文介绍了Markdown的基本语法。首先，介绍了标题的使用方法，包括一级标题、二级标题、三级标题等。然后，说明了字体的设置，包括粗体、斜体、粗体加斜体以及中间横线的设置方法。接下来，介绍了引用的语法和分割线的使用方式。然后，讲解了插入图片和超链接的方法。之后，介绍了有序列表和无序列表的创建方法。另外，还介绍了创建表格和插入代码块的语法。最后，提供了快捷键的一些常用操作，方便编辑Markdown文档时的快速操作。
 tags: Markdown
 abbrlink: 5d36ff15
 date: 2022-08-25 22:33:19

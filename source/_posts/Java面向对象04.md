@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva3.sinaimg.cn/large/87c01ec7gy1fsnqqm6x00j21kw0w0h09.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/f9a43fa4f09af.jpg
+ai: 
+  - 文章主要讲述了static关键字、抽象类、接口以及内部类，介绍了相关知识点并且给出了详细的代码供读者阅读。
 tags:
   - Java
   - Java面向对象

@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva3.sinaimg.cn/large/87c01ec7gy1fsnqqxqwj6j21kw0w01a0.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/00c70a2ab8b2b.jpg
+ai: 
+  - 本文介绍了Java语言中常见的运算符，包括算术运算符、赋值运算符、关系运算符、逻辑运算符、位运算符、条件运算符以及扩展赋值运算符。针对每种运算符，给出了相应的符号、语法格式和示例代码，并解释了其具体用法和注意事项。此外，还列出了运算符的优先级表格供参考。
 tags:
   - Java
   - Java基础语法

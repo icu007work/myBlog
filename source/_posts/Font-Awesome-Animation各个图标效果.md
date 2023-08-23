@@ -7,6 +7,8 @@ categories: 资源
 comments: true
 photos: 'https://tva1.sinaimg.cn/large/87c01ec7gy1fsnqqxw2orj21kw0w01a9.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/9b95eb2d39d1d.jpg
+ai: 
+  - 这篇文章描述了Font Awesome Animation各个图标效果并贴出了具体效果对应的代码。
 tags:
   - 随笔
 password: 123456

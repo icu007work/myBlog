@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva1.sinaimg.cn/large/87c01ec7gy1fsnqr4nyw5j21kw0w0e07.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/8b489fc89372f.jpg
+ai: 
+  - 本文介绍了创建第一个Android项目的步骤，包括在Android Studio中创建项目、选择活动界面以及等待项目创建成功。然后讲解了如何启动设备（模拟器或实体设备），包括下载包含Android SDK的Android Studio、安装并记住安装路径，配置SDK环境变量等步骤。接下来说明了如何运行第一个项目，并提供了相关的截图展示。最后分析了第一个Android程序的目录结构，包括Project目录和app目录下的各个子目录及其作用。
 tags:
   - Android
   - 随笔

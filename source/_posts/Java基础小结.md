@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqshib2j21kw0w0apc.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/00c70a2ab8b2b.jpg
+ai: 
+  - 本文主要向我们介绍了：面向过程和面向对象是两种不同的编程思想。面向过程是自上而下的思维方式，将解决问题的步骤逐步实现并依次调用。它适合处理较简单的问题。面向对象则是自下而上的思维方式，通过创建类和对象来组织代码，每个对象都有自己的属性和方法，并围绕对象提供服务。面向对象适用于处理复杂的问题和需要多人协作的情况。面向对象具有封装、继承和多态三个特征。
 tags:
   - Java
   - Java基础语法

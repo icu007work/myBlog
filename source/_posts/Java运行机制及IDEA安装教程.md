@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqm5vu5j21kw0w0aon.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/094720ae14ec2.jpg
+ai: 
+  - 本文首先介绍了编写和运行Java程序的基本步骤，包括创建Java文件、编写代码、编译Java文件、运行class文件，并指出了在此过程中可能遇到的问题。然后，讨论了Java的运行机制，说明了它是一种编译型语言，并展示了Java程序的运行流程图。接下来，提供了详细的IDEA安装教程，包括打开JetBrains官网下载IDEA、选择安装目录以及创建Java程序的步骤。最后，给出了一个Hello World示例代码并展示了在IDEA中创建和运行Java程序的过程。
 tags: Java
 abbrlink: 6b48db66
 date: 2022-08-25 22:32:04

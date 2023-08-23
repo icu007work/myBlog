@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqqanu0wj21kw0w07h2.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/e21f1f24bd613.jpg
+ai: 
+  - 这篇文章介绍了Java中的三种循环结构：while、do...while和for循环。它解释了每种循环的语法、特点和用法。此外，还介绍了用于数组或集合的增强型for循环。文章还涵盖了使用break和continue语句来控制循环流程的方法。最后，它提供了一个示例，演示如何使用嵌套循环打印出一个三角形图案。在提供的代码示例中，第一个程序使用while循环计算从1到100的数字之和。第二个程序使用for循环计算从0到100之间的偶数和奇数之和。第三个程序使用嵌套的for循环生成一个乘法表。最后，第四个程序演示了使用增强型for循环遍历数组的用法。
 tags:
   - Java
   - Java流程控制

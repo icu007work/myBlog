@@ -7,6 +7,7 @@ categories: 随想
 comments: true
 photos: 'https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqqw744pj21kw0w0dwt.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/edd353d123f0a.jpg
+ai: 本文主要是记录WP相关文件的备份。
 tags: WP
 abbrlink: b6be31da
 date: 2022-08-25 22:43:48

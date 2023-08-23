@@ -5,6 +5,8 @@ date: 2023-08-03 15:02:03
 author: Rookie_l
 avatar: https://icu007.work/wp-content/uploads/2022/08/head.jpeg
 cover: https://pic.ziyuan.wang/2023/08/22/8e5180b414a23.jpg
+ai: 
+  - 这篇文章介绍了在Butterfly主题中添加链接卡片外挂的方法。首先，在themes/butterfly/scripts/tag文件夹下创建link.js文件，并将提供的代码粘贴进去。然后，在themes/butterfly/source/css/_tags文件夹下创建link.styl文件，并将提供的样式代码粘贴进去。使用时可以通过{% link %}标签指定相关参数来生成链接卡片，包括链接、标题、图标和介绍等。如果不填写参数，则会使用默认值。注意，在内容中不能存在英文逗号。最后，你可以根据自身需求进行修改和定制。
 authorLink: https://hiheya.github.io/
 categories: 技术
 tags: 

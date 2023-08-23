@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva1.sinaimg.cn/large/87c01ec7gy1fsnqqm5vu5j21kw0w0aon.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/17eaa9871718b.jpg
+ai: 
+  - 本文介绍了两种解决代码冲突的方法。1. 多人同时修改同一文件：可以使用git status命令找到冲突的文件，然后手动编辑文件，删除冲突部分，使其与预期结果一致。 2. 缺少change-id：当出现缺少change-id的错误时，根据Git提供的提示执行以下操作。首先，安装钩子，使用命令gitdir=$(git rev-parse --git-dir); scp -p -P 29418 liaochongrong@192.168.8.215:hooks/commit-msg ${gitdir}/hooks/。然后，通过git commit --amend命令进行提交修正。如果有需要，你还可以使用git reset --soft <commit id>重置已有的提交，然后重新提交以生成change-id。以上就是解决冲突的常见方法，根据实际情况选取适合的方式来解决冲突。
 tags:
   - git
   - 随笔

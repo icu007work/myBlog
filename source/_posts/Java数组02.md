@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqzns32j21kw0w01ao.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/c3936f01a70c3.jpg
+ai: 
+  - 本文介绍了Java中的数组以及其使用方法。首先讨论了数组的定义，指出它是相同类型数据的有序集合，并通过下标访问元素。在声明和创建数组时，可以使用[]或arrayRefVar[]语法，并使用new操作符在堆中创建数组空间和赋值操作。接着介绍了三种数组初始化方式：静态初始化、动态初始化以及数组的默认初始化。数组边界相关内容指出合法索引范围为0到数组长度减1，超出范围会导致ArrayIndexOutOfBoundsException异常。对于数组的使用，文章提供了简单for循环和For-Each循环两种迭代方式，并展示了数组作为方法入参和返回值的用法。最后，介绍了多维数组的概念，并给出了二维数组的声明和遍历示例。文章配图展示了Java内存分析和数组的声明与创建过程。
 tags:
   - Java
   - Java数组

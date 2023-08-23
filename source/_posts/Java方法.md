@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqhqfnzj21kw0w0ao2.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/9dcc989cf7d0a.jpg
+ai: 
+  - 本文主要介绍了：Java的方法是一组语句的集合，用于实现特定的功能。方法包含在类或对象中，可以在程序中创建并在其他位置引用。编写方法时，应该保持方法的原子性，即每个方法只实现一个功能，以方便后续扩展。方法的命名规则是首字母小写，后面使用驼峰命名规则。还介绍了方法的重载、命令行传参等等。
 tags:
   - Java
   - Java方法

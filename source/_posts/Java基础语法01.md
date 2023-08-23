@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva3.sinaimg.cn/large/87c01ec7gy1fsnqqxqwj6j21kw0w01a0.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/00c70a2ab8b2b.jpg
+ai: 
+  - 本文向我们介绍了Java的注释、标识符以及数据类型：注释在代码中的作用是提供说明和解释，方便他人阅读和理解代码。注释不会被编译器执行，只是给程序员看的。在代码量较少且简单的情况下，代码的可读性可能较高，不太需要注释。但是当项目结构复杂、代码规模庞大时，注释则非常有必要。
 tags:
   - Java
   - Java基础语法

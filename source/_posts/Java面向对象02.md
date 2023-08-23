@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva3.sinaimg.cn/large/87c01ec7gy1fsnqqm6x00j21kw0w0h09.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/f9a43fa4f09af.jpg
+ai: 
+  - 本文介绍了：构造器是类中的一种特殊方法，用于创建对象时必须调用。构造器具有以下特点：首先，构造器的名称与类名相同；其次，构造器没有返回类型，也不能使用void关键字进行声明。在给出的示例代码中，包括学生类（Student）和宠物类（Pet）。学生类有无参构造器和有参构造器，用于初始化学生对象的属性。宠物类具有姓名（name）、年龄（age）和叫声（shout）等属性和方法。内存分析部分描述了对象的创建过程。通过实例化对象、调用构造器以及对象所占用的内存空间的分配过程，解释了堆、栈和方法区之间的关系。
 tags:
   - Java
   - Java面向对象

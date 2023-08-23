@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqzns32j21kw0w01ao.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/c3936f01a70c3.jpg
+ai: 
+  - 本文主要介绍了数组：数组是一种有序集合，包含相同类型的数据元素，并按照特定顺序排列。每个元素可以通过索引访问。声明数组时需要指定数据类型，并使用[]或arrayRefVar[]语法。在Java中，可使用new操作符创建数组，并通过索引访问其中的元素（索引从0开始）。数组长度确定且不可改变，元素必须为相同类型，可以包含基本类型和引用类型。数组本身是对象，在堆中存储。
 tags:
   - Java
   - Java数组

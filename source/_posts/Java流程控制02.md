@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqqanu0wj21kw0w07h2.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/e21f1f24bd613.jpg
+ai: 
+  - 本文介绍了Java中的顺序结构和选择结构。顺序结构是基本的算法结构，在执行过程中按照从上到下的顺序依次执行处理步骤。当涉及判断时，可以使用选择结构。选择结构分为单选择、双选择和多选择结构。其中if语句用于单选择和双选择结构，根据条件的真假执行相应的代码块。多选择结构可以使用if...else if...else语句，根据不同的条件选择执行不同的代码块。此外，嵌套的if和else语句也是合法且常见的。另一种多选择结构是switch case语句，根据变量与不同的值进行判断，并执行对应的代码块。在Java SE 7及以后的版本中，switch语句还支持字符串类型的判断。代码示例展示了顺序结构和各种选择结构的应用。其中包括使用if语句判断输入内容是否满足条件并输出结果，根据不同的成绩等级输出评价，以及利用switch case语句根据不同的情况执行相应的操作。注意，在Java SE 7及以后的版本中，switch case语句可以用于字符串类型的判断。
 tags:
   - Java
   - Java流程控制

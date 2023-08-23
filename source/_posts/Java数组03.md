@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva4.sinaimg.cn/large/87c01ec7gy1fsnqqzns32j21kw0w01ao.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/c3936f01a70c3.jpg
+ai: 
+  - 本文介绍了Array类：在Java中，有一个名为Arrays的工具类，它提供了一些对数组进行操作的静态方法。可以通过该类来对数组进行赋值、排序、比较和查找等操作。
 tags:
   - Java
   - Java数组

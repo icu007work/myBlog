@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva2.sinaimg.cn/large/87c01ec7gy1fsnqqanu0wj21kw0w07h2.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/e21f1f24bd613.jpg
+ai: 
+  - Java提供了Scanner类用于获取用户的输入。通过java.util.Scanner工具类可以创建一个Scanner对象，该对象可以与System.in（标准输入）关联，以便从键盘读取用户输入。可以使用hasNext()和hasNextLine()方法判断是否还有输入数据，然后使用next()和nextLine()方法获取输入的字符串。另外，Scanner类还提供了其他方法如hasNextInt()、hasNextFloat()和hasNextDouble()，用于判断下一个输入是否为整数、浮点数等。需要注意的是，在使用完Scanner类后，应当调用其close()方法关闭资源。在使用next()和nextLine()方法时，需要注意它们的区别，包括对空白符的处理。
 tags:
   - Java
   - Java流程控制

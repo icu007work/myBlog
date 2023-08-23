@@ -7,6 +7,8 @@ categories: 技术
 comments: true
 photos: 'https://tva3.sinaimg.cn/large/87c01ec7gy1fsnqqm6x00j21kw0w0h09.jpg'
 cover: https://pic.ziyuan.wang/2023/08/22/f9a43fa4f09af.jpg
+ai: 
+  - 本文介绍了Java面向对象中的：封装、继承和多态，并且贴出了一些代码方便读者理解。
 tags:
   - Java
   - Java面向对象
