@@ -1,24 +1,24 @@
 menu:
   文章:
-    隧道: /archives/ || anzhiyu-icon-box-archive
+    归档: /archives/ || anzhiyu-icon-box-archive
     分类: /categories/ || anzhiyu-icon-shapes
     标签: /tags/ || anzhiyu-icon-tags
 
-  友链:
-    友人帐: /link/ || anzhiyu-icon-link
+  站务:
+    空调: /air-conditioner/ || anzhiyu-icon-fan
+    友链: /link/ || anzhiyu-icon-link
     # 朋友圈: /fcircle/ || anzhiyu-icon-artstation
     留言板: /comments/ || anzhiyu-icon-envelope
 
   我的:
-    音乐馆: /music/?id=6842714056&server=netease || anzhiyu-icon-music
-    追番页: /bangumis/ || anzhiyu-icon-bilibili
-    相册集: /album/ || anzhiyu-icon-images
-    小空调: /air-conditioner/ || anzhiyu-icon-fan
+    音乐: /music/?id=6842714056&server=netease || anzhiyu-icon-music
+    番剧: /bangumis/ || anzhiyu-icon-bilibili
+    相册: /album/ || anzhiyu-icon-images
 
   关于:
-    关于本人: /about/ || anzhiyu-icon-paper-plane
-    闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-    随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+    关于我: /about/ || anzhiyu-icon-paper-plane
+    碎碎念: /essay/ || anzhiyu-icon-lightbulb
+    传送门: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
 nav:

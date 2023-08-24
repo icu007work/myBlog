@@ -14,7 +14,7 @@ aplayer:
 highlight_shrink:
 ---
 
-> 终于为博客安装上了便携小空调
+> 2023-08-16: 米奇妙妙屋也装上空调啦!
 
 <style>
 .copyright-box a {
