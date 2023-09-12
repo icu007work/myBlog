@@ -7,6 +7,10 @@
   home_essay: true
   top_background: linear-gradient(to top,#cd9cf2 0%,#f6f3ff 100%); #/img/info-bg.webp
   essay_list:
+    - content: 去看Jolin的演唱会啦,我也想冷静下来呀,可是Jolin喊我脑公诶!!!
+      date: 2023-08-26
+      image:
+        - https://pic.ziyuan.wang/2023/08/28/guest_4699ef19a2e53.jpg
     - content: 使用安知鱼主题重置博客
       date: 2023-08-16
       image: 

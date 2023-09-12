@@ -6,6 +6,7 @@ avatar: https://icu007.work/wp-content/uploads/2022/08/head.jpeg
 authorLink: https://hiheya.github.io/
 categories: 技术
 cover: 
+ai: 
 top_img: 
 tags: 
 keywords: 
