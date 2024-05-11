@@ -9,6 +9,7 @@ menu:
     友链: /link/ || anzhiyu-icon-link
     # 朋友圈: /fcircle/ || anzhiyu-icon-artstation
     留言板: /comments/ || anzhiyu-icon-envelope
+    # 每日新聞: /dailynews/ || fa-solid fa-newspaper
 
   我的:
     音乐: /music/?id=6842714056&server=netease || anzhiyu-icon-music
@@ -730,7 +731,7 @@ ClickShowText:
 
 # Default display mode (网站默认的显示模式)
 # light (default) / dark
-display_mode: light
+display_mode: dark
 
 # Beautify (美化页面显示)
 beautify:
@@ -960,7 +961,7 @@ note:
 
 icons:
   ali_iconfont_js: # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
-  fontawesome: false #是否启用fontawesome6图标
+  fontawesome: true #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
 # other
