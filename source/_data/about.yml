@@ -41,7 +41,7 @@
   personalities:
     author_name: 守卫者
     personality_type: ISFJ-T
-    photo_url: http://api.muvip.cn/api/bing?size=400x240 #/img/default_cover.jpg
+    photo_url: https://imgapi.cn/bing.php #/img/default_cover.jpg
     personality_img: /img/about/ISFJ.png
     name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
   maxim:
